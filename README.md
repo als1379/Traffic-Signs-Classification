@@ -1,3 +1,3 @@
 # Traffic-Signs-Classification
-Classify traffic signs images with 2D Convolutional neural network using TensorFlow Keras
+Train 3 Convolutional neural networks to classify traffic signs images using TensorFlow Keras
 dataset: https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
